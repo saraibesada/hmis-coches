@@ -1,0 +1,10 @@
+{
+  "coches": [
+     {
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "año": 2021,
+      "precio": 45000
+    }
+  ]
+}

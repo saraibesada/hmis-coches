@@ -1,0 +1,10 @@
+{
+  "coches": [
+      {
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "año": 2023,
+      "precio": 52000
+    }
+  ]
+}

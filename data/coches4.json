@@ -1,0 +1,10 @@
+{
+  "coches": [
+    {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "año": 2022,
+      "precio": 22000
+    }
+  ]
+}
