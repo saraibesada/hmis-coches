@@ -70,8 +70,7 @@ public class Coche {
 				Objects.equals(modelo, other.modelo) && 
 				precio == other.precio;
 	}
-
-
+	
 
 	@Override
 	public String toString() {
